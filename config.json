@@ -17,10 +17,7 @@
         "decryption": "none"
       },
       "streamSettings": {
-        "network": "ws",
-        "wsSettings": {
-          "path": "/"
-        }
+        "network": "tcp"
       }
     }
   ],
